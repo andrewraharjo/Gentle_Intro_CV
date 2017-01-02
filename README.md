@@ -1,5 +1,5 @@
 # A Gentle Introduction for Self Driving Car 
-**Prototype Finding Straight Lane Lines on the Road
+#**Prototype Finding Straight Lane Lines on the Road
 
 <img src="assets/FinalBuild.jpeg" width="500" alt="Image" />
 
